@@ -1,0 +1,13 @@
+build/
+.tmp-source-hashes/
+*.tmp
+*.log
+.DS_Store
+tmp/
+.chrome-profile/
+.chrome-profile-2/
+.edge-profile/
+tests/test_build_pdf.py
+scripts/build_pdf.py
+scripts/polish-docx.ps1
+scripts/rasterize-svg.cjs

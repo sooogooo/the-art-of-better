@@ -1,0 +1,22 @@
+repository,source_file,conceptual_input,publication_use,rights_disposition
+articles-special,docs/contents-2.md,美丽主权和营销压力的议题地图,转化为第一部和第三部的问题清单,independent-rewrite-only
+articles-special,articles/03-industry-development/17-marketing-psychology-traps.md,营销诱因与决策摩擦,转化为广告识读的分析维度,independent-rewrite-only
+articles-special,articles/07-issues-standards/42-medical-aesthetics-ethics.md,自主与行业伦理,转化为消费者知情与拒绝权的讨论,independent-rewrite-only
+ebook-realpsychology-2,02-research-methods-and-critical-thinking.md,证据分级与批判性阅读,转化为事实审计方法,independent-rewrite-only
+ebook-realpsychology-2,03-consumption-motivation-and-psychological-needs.md,动机和身体意象的问题意识,转化为动机检验章节,independent-rewrite-only
+ebook-realpsychology-2,04-information-processing-and-decision-making.md,信息质量和决策压力,转化为面诊与延迟决策工具,independent-rewrite-only
+ebook-realpsychology-2,07-ethical-boundaries-of-sales-psychology.md,销售伦理和消费者边界,转化为第三部中的知情同意讨论,independent-rewrite-only
+ebooks-psycho-2,README.md,身体美学与医美决策的跨学科定位,转化为本书的读者定位,independent-rewrite-only
+ebooks-psycho-2,07_body_image.md,身体意象和镜中自我,转化为社会比较和身体意象章节,independent-rewrite-only
+ebooks-psycho-2,09_cognitive_biases.md,决策偏误的场景化表达,转化为信息和时间压力章节,independent-rewrite-only
+ebooks-psycho-2,12_doctor_patient_communication.md,医患沟通与期待管理,转化为面诊提问工具,independent-rewrite-only
+ebooks-pychology-2,05-digital-mirror.md,数字镜像和平台比较,转化为数字审美环境讨论,independent-rewrite-only
+ebooks-pychology-2,07-body-image.md,身体意象的多维性,转化为非诊断性自我观察,independent-rewrite-only
+ebooks-pychology-2,11-ethics-boundaries.md,自主与社会责任的张力,转化为改善伦理章节,independent-rewrite-only
+beautifulmind,ALL,explicitly excluded because the repository license is CC-BY-NC-ND-4.0,not-used,excluded
+ebooks-beautiful-mind,docs/04-decision-making.md,从心动到行动的决策场景,转化为改善循环的图解语言,independent-rewrite-only
+ebooks-beautiful-mind,docs/05-marketing-psychology.md,营销语言与抵抗压力,转化为广告识读的问题框架,independent-rewrite-only
+ebooks-beautiful-mind,docs/10-beauty-planner.md,长期规划与退出成本,转化为改善组合和延迟协议,independent-rewrite-only
+ebooks-consultant-guide,04-medical-narrative-compassion.md,叙事和共情的边界,转化为不羞辱改善愿望的写作原则,independent-rewrite-only
+ebooks-consultant-guide,05-consumer-psychology-decision.md,消费决策和沟通,转化为关系中的决策权讨论,independent-rewrite-only
+joanclinic,README.md,阅读导航和原创图解的出版方向,转化为本书的读者工具页,independent-rewrite-only
