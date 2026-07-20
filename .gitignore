@@ -2,6 +2,7 @@ build/
 .tmp-source-hashes/
 *.tmp
 *.log
+~$*.docx
 .DS_Store
 tmp/
 .chrome-profile/
